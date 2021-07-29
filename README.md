@@ -5,11 +5,9 @@
 
 - Prefer tabs over spaces
 
-- 🌱 I’m currently learning **React**
+- How to reach me **sathiyaparmar4999@gmail.com**
 
-- 📫 How to reach me **sathiyaparmar4999@gmail.com**
-
-- ⚡ Fun fact **Am a solo dev, only collab if our vibe matches**
+- **Am a solo dev, only collab if our vibe matches**
 
 
 <h3 align="left">Languages and Tools:</h3>
