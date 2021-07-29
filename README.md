@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sathiya</h1>
 <h3 align="center">A developer,network engineer, gamer, hiker</h3>
 
-- 🔭 I’m currently working on **Generalised backtester**
+- Working as a Network engineer at Variance Technology
+
+- Prefer tabs over spaces
 
 - 🌱 I’m currently learning **React**
 
