@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathiya</h1>
 <h3 align="center">A developer,network engineer, gamer, hiker</h3>
 
-- Working as a Network engineer at Variance Technology
+- Working as a Network engineer at Variance Technologies
 
 - Prefer tabs over spaces
 
